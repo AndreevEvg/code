@@ -1,0 +1,10 @@
+#!/usr/bin/env php
+<?php
+echo "Hello World!\n";
+//require_once('foo.php');
+
+//$stock = Foo::lookup($text);
+//print($stock);
+
+echo $argv[1] . "\n";
+
